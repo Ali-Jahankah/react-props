@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.appheader {
+  text-align: center;
+  margin-top: 20px;
+}
+#peopleComponenet button {
+  padding: 10px;
+  background: yellow;
+  cursor: pointer;
+  margin: 20px 10px;
+  font-weight: bold;
+}
+#peopleComponenet {
+  text-align: center;
+}
+#peopleComponenet button:hover {
+  background: rgb(21, 255, 0);
+}
+#newPersonForm input {
+  padding: 10px;
+  border-bottom: 2px solid rgb(0, 255, 0);
+  font-weight: bold;
+}
+.newpersoninput {
+  text-align: center;
+}
